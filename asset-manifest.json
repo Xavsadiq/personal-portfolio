@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/personal-portfolio/static/js/main.aa87c0b5.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.aa87c0b5.chunk.js.map",
-    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.4783c9b9.js",
-    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.4783c9b9.js.map",
-    "static/js/2.3ccb7286.chunk.js": "/personal-portfolio/static/js/2.3ccb7286.chunk.js",
-    "static/js/2.3ccb7286.chunk.js.map": "/personal-portfolio/static/js/2.3ccb7286.chunk.js.map",
-    "index.html": "/personal-portfolio/index.html",
-    "static/js/2.3ccb7286.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.3ccb7286.chunk.js.LICENSE.txt",
-    "static/media/crypto-tracker.5668da5c.PNG": "/personal-portfolio/static/media/crypto-tracker.5668da5c.PNG",
-    "static/media/profilepic.2a39f5f1.jpg": "/personal-portfolio/static/media/profilepic.2a39f5f1.jpg",
-    "static/media/reddit-images.984b2c00.PNG": "/personal-portfolio/static/media/reddit-images.984b2c00.PNG"
+    "main.js": "/static/js/main.aa87c0b5.chunk.js",
+    "main.js.map": "/static/js/main.aa87c0b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.3ccb7286.chunk.js": "/static/js/2.3ccb7286.chunk.js",
+    "static/js/2.3ccb7286.chunk.js.map": "/static/js/2.3ccb7286.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.3ccb7286.chunk.js.LICENSE.txt": "/static/js/2.3ccb7286.chunk.js.LICENSE.txt",
+    "static/media/crypto-tracker.5668da5c.PNG": "/static/media/crypto-tracker.5668da5c.PNG",
+    "static/media/profilepic.2a39f5f1.jpg": "/static/media/profilepic.2a39f5f1.jpg",
+    "static/media/reddit-images.984b2c00.PNG": "/static/media/reddit-images.984b2c00.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.4783c9b9.js",
+    "static/js/runtime-main.5ebc510a.js",
     "static/js/2.3ccb7286.chunk.js",
     "static/js/main.aa87c0b5.chunk.js"
   ]
