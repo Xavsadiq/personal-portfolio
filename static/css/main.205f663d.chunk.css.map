@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header.css","webpack://src/components/Showcase.css"],"names":[],"mappings":"AAAA,QACI,aAAc,CCAd,UDCJ","file":"main.205f663d.chunk.css","sourcesContent":["a:hover {\r\n    color: #71cfaa;\r\n}","a:hover {\r\n    opacity: 0.5;\r\n}"]}
