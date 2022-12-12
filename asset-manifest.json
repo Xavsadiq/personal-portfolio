@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.205f663d.chunk.css",
-    "main.js": "/static/js/main.fc57845c.chunk.js",
-    "main.js.map": "/static/js/main.fc57845c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
-    "static/js/2.af6e857b.chunk.js": "/static/js/2.af6e857b.chunk.js",
-    "static/js/2.af6e857b.chunk.js.map": "/static/js/2.af6e857b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.205f663d.chunk.css.map": "/static/css/main.205f663d.chunk.css.map",
-    "static/js/2.af6e857b.chunk.js.LICENSE.txt": "/static/js/2.af6e857b.chunk.js.LICENSE.txt",
-    "static/media/crypto-tracker.5668da5c.PNG": "/static/media/crypto-tracker.5668da5c.PNG",
-    "static/media/health-dashboard.e1d55732.PNG": "/static/media/health-dashboard.e1d55732.PNG",
-    "static/media/profilepic.e437feac.jpg": "/static/media/profilepic.e437feac.jpg",
-    "static/media/reddit-images.984b2c00.PNG": "/static/media/reddit-images.984b2c00.PNG"
+    "main.css": "/personal-portfolio/static/css/main.205f663d.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.fc57845c.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.fc57845c.chunk.js.map",
+    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.4783c9b9.js",
+    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.4783c9b9.js.map",
+    "static/js/2.af6e857b.chunk.js": "/personal-portfolio/static/js/2.af6e857b.chunk.js",
+    "static/js/2.af6e857b.chunk.js.map": "/personal-portfolio/static/js/2.af6e857b.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "static/css/main.205f663d.chunk.css.map": "/personal-portfolio/static/css/main.205f663d.chunk.css.map",
+    "static/js/2.af6e857b.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.af6e857b.chunk.js.LICENSE.txt",
+    "static/media/crypto-tracker.5668da5c.PNG": "/personal-portfolio/static/media/crypto-tracker.5668da5c.PNG",
+    "static/media/health-dashboard.e1d55732.PNG": "/personal-portfolio/static/media/health-dashboard.e1d55732.PNG",
+    "static/media/profilepic.e437feac.jpg": "/personal-portfolio/static/media/profilepic.e437feac.jpg",
+    "static/media/reddit-images.984b2c00.PNG": "/personal-portfolio/static/media/reddit-images.984b2c00.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ebc510a.js",
+    "static/js/runtime-main.4783c9b9.js",
     "static/js/2.af6e857b.chunk.js",
     "static/css/main.205f663d.chunk.css",
     "static/js/main.fc57845c.chunk.js"
